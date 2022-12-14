@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieInfosystems", "ArtsProject\PieInfosystems.csproj", "{91CFD05A-72F1-4105-8BB6-7F17D7192B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CFD05A-72F1-4105-8BB6-7F17D7192B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CFD05A-72F1-4105-8BB6-7F17D7192B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CFD05A-72F1-4105-8BB6-7F17D7192B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CFD05A-72F1-4105-8BB6-7F17D7192B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14815FFB-07F4-4658-B616-5A7A9F9E26B1}
+	EndGlobalSection
+EndGlobal
